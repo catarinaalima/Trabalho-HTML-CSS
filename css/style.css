@@ -15,4 +15,31 @@ body
        height: 100%;
        padding-top: 80px;
        padding-bottom: 80px;
-    }  
+    } 
+
+/* START HOME */
+#home
+    {
+    background: url('../img/banner2.png') no-repeat;
+    background-size:cover;
+    color:#f8f8f8;
+    text-align: center;
+    width: 100%;
+    }
+#home p
+    {
+        font-weight: 400;
+        font-style: italic;
+        line-height: 2em;
+    }
+#home img
+    {
+        width: 120px;  
+        margin-bottom: 200px;
+        
+        
+    }
+#home button{
+    background-color: #F8C592;
+}
+/* END HOME */
