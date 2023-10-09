@@ -79,3 +79,23 @@ body
         margin-top: 10px;
 }
 /* END SOBRE NOS */
+
+/* START COMO FUNCIONA */
+#feature1
+    {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+#feature1 p
+    {
+        padding-top: 10px;
+    }
+#feature1 span
+    {
+        float: left;
+    }
+
+#feature1 img {
+        margin-bottom: 30px;
+}
+/* END COMO FUNCIONA */
