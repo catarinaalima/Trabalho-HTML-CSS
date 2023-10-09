@@ -55,3 +55,27 @@ body
     color: #F8C592;
 }
 /* END ICONS */
+
+/* START SOBRE NOS */
+#feature
+    {
+        background: #f8f8f8;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+#feature h2
+    {
+        text-align: left;
+    }
+#feature p
+    {
+        padding-top: 10px;
+    }
+#feature span
+    {
+        float: left;
+    }
+#feature img {
+        margin-top: 10px;
+}
+/* END SOBRE NOS */
