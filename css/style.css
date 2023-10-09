@@ -43,3 +43,15 @@ body
     background-color: #F8C592;
 }
 /* END HOME */
+
+/* START ICONS */
+.adotar-pet{
+    font-weight: 400;
+    font-style: italic;
+    line-height: 2em;
+    padding-top: 40px;
+}
+.bi {
+    color: #F8C592;
+}
+/* END ICONS */
