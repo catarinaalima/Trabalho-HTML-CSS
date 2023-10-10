@@ -99,3 +99,43 @@ body
         margin-bottom: 30px;
 }
 /* END COMO FUNCIONA */
+
+/* start slide */
+#slide
+    {
+        
+        background: url('../img/banner4.png') no-repeat;
+        background-size:cover;
+        color:#f8f8f8;
+        text-align: center;
+        width: 100%;
+        
+    }
+
+.carousel {
+    margin-bottom: 4rem;
+  }
+
+.carousel-caption {
+    bottom: 6rem;   
+  
+  }
+.carousel-caption hr{
+    color: #f8f8f8;
+    margin-left: 18rem;  
+    margin-right: 18rem;
+}
+  
+
+.carousel-item {
+    height: 32rem;
+  }
+.carousel-indicators button{
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 50%;
+  }
+  
+  
+/* end slide */
+
