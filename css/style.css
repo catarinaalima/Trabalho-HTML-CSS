@@ -170,3 +170,21 @@ body
 
 /* end contact */
 
+/* start footer */
+.footer
+    {
+        background: #f8f8f8;
+        font-weight: 100;
+        text-align: right;     
+        padding: 10px;
+    }
+
+#img-div{
+        display: flex;
+        float: left;    
+        height: 30px;
+        
+            
+    }
+    /*end footer */
+
